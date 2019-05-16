@@ -1,0 +1,8 @@
+https://coral.withgoogle.com/docs/dev-board/get-started/
+https://www.tensorflow.org/lite
+https://coral.withgoogle.com/models/
+https://medium.com/tensorflow/build-ai-that-works-offline-with-coral-dev-board-edge-tpu-and-tensorflow-lite-7074a9fd0172
+https://www.tensorflow.org/tutorials/keras/basic_classification
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises
