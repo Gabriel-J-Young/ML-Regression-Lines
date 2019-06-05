@@ -15,7 +15,7 @@ import tensorflow as tf
 from tensorflow.python.data import Dataset
 
 tf.logging.set_verbosity(tf.logging.ERROR)
-pd.options.display.max_rows = 10
+pd.options.display.max_rows = 100
 #pd.options.display.float_format = '{:.1f}'.format
 
 
