@@ -219,6 +219,7 @@ def train_model(
   vote_predictions = np.array([item['predictions'][0] for item in vote_predictions])
   print(vote_predictions)
   future_election_dataframe["Vote"] = vote_predictions
+  future_election_dataframe.to_excel("City_Council_elections_output.xlsx", sheet_name='output')
 
   #Output a graph of loss metrics over periods.
   print(plt.ylabel("RMSE"))
